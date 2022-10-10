@@ -1,2 +1,2 @@
-# kadikoy-eksis-zl-k
+# kadikoy-eksisozluk
 Kadıköy Twitter - Data Collection &amp; Analysis
