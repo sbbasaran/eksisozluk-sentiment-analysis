@@ -1,2 +1,2 @@
 # kadikoy-eksisozluk
-Kadıköy Twitter - Data Collection &amp; Analysis
+Kadıköy Ekisözlük - Data Collection &amp; Analysis
