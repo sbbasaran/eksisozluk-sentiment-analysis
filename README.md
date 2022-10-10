@@ -1,4 +1,4 @@
 # kadikoy-eksisozluk
-Kadıköy Ekisözlük - Data Collection &amp; Analysis
+Kadıköy Eksi Sözlük - Data Collection &amp; Analysis
 
 
